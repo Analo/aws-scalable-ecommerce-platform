@@ -1,0 +1,14 @@
+# [type]: Brief description (50 chars max)
+
+# Why is this change needed?
+
+# How does it address the issue?
+
+# Breaking changes or important notes:
+
+# Types: feat, fix, docs, style, refactor, test, chore, ci, perf
+# Examples:
+# feat: add auto-scaling configuration for web tier
+# fix: resolve database connection timeout issues
+# docs: update README with deployment instructions
+# ci: add terraform validation to GitHub Actions

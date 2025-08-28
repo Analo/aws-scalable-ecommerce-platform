@@ -1,0 +1,11 @@
+# Global code owners for Cloud Engineering best practices
+* @Analo
+
+# Terraform infrastructure changes require review
+/terraform/ @Analo
+/modules/ @Analo
+/.github/workflows/ @Analo
+
+# Documentation changes
+*.md @Analo
+/docs/ @Analo
